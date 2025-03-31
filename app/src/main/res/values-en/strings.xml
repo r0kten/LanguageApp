@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LanguageApp</string>
+    <string name="select_language">Select Language:</string>
+    <string name="select_font">Select Font:</string>
+    <string name="hello_text">Hello, User!</string>
+    <string name="english">English</string>
+    <string name="ukrainian">Ukrainian</string>
+    <string name="german">German</string>
+</resources>
